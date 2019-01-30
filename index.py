@@ -20,7 +20,5 @@ try:
     cursor.execute(valores)
     conexion.commit()
     print("ingresado valores en la BD")
-except:
-    print("Valores no ingresados")
-
-conexion.close()
+except:Quinatoa jonathan
+diego s
