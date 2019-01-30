@@ -23,4 +23,4 @@ try:
 except:
     print("Valores no ingresados")
 
-conexion.close()
+conexion.close()//Rither Tandazo
